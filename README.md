@@ -6,7 +6,7 @@ This repository contains a data processing project that aims to clean and enhanc
 ## Data Preprocessing Steps
 Replacing Column Name: The column named "Column1" has been renamed to "ID" for better clarity and understanding of the data.
 
-Replacing -1 with Null: The dataset had some values represented by -1, which were not meaningful. These values have been replaced with null to indicate missing or unknown data.
+* Replacing -1 with Null: The dataset had some values represented by -1, which were not meaningful. These values have been replaced with null to indicate missing or unknown data.
 
 Splitting Location Column: The "Location" column has been split into two new columns: "City" and "State." This enhancement provides a clearer view of job locations and facilitates analysis based on cities or states.
 
