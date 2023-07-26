@@ -4,7 +4,7 @@
 This repository contains a data processing project that aims to clean and enhance a dataset related to job listings. The project involves various data transformations and cleaning steps to make the dataset more informative and user-friendly. The changes made to the original dataset are outlined below.
 
 ## Data Preprocessing Steps
-Replacing Column Name: The column named "Column1" has been renamed to "ID" for better clarity and understanding of the data.
+* Replacing Column Name: The column named "Column1" has been renamed to "ID" for better clarity and understanding of the data.
 
 * Replacing -1 with Null: The dataset had some values represented by -1, which were not meaningful. These values have been replaced with null to indicate missing or unknown data.
 
